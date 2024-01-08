@@ -11,7 +11,7 @@
 - Frameworks: Flask, Node.js, React y Angular.
 
 ## 💼 Experiencia
-- Práctica Laboral: Realicé mi práctica desempeñando el papel de Data Engineer en donde tuve que desarrollar utilizando python mejorando códigos obsoletos, realizando dags y pruebas unitarias a distintas funcionalidades. Además, utilicé diversas herramientas de AWS para gestionar bases de datos y crear pipeline de datos.
+- Práctica Laboral: Realicé mi práctica desempeñando el papel de Data Engineer en donde tuve que desarrollar utilizando python para mejorar códigos obsoletos, también realicé dags y pruebas unitarias a distintas funcionalidades. Además, utilicé diversas herramientas de AWS para gestionar bases de datos y crear pipeline de datos.
 - Proyecto de Título: Trabajé como Ingeniera de software y también cumpli el rol de Scrum Master. Durante este proyecto desarrolle una API Rest para capturar texto del documento de identificación chileno para luego realizar verificaciones de seguridad para validar que el carnet sea verídico.
 
 ## 🌐 Enlaces
