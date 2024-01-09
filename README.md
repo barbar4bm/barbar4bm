@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Sobre mí
 
-¡Hola! Soy Bárbara, una apasionada programadora con un enfoque especial en los datos y desarrollo full stack. Me encanta enfrentar desafíos técnicos y contribuir a proyectos que tienen un impacto significativo. Mi viaje en el mundo de la programación es un constante aprendizaje y estoy emocionada por explorar nuevas tecnologías y metodologías.
+¡Hola! Soy Ingeniera civil en computación e informática una apasionada programadora con un enfoque especial en los datos y desarrollo full stack. Me encanta enfrentar desafíos técnicos y contribuir a proyectos que tienen un impacto significativo. Mi viaje en el mundo de la programación es un constante aprendizaje y estoy emocionada por explorar nuevas tecnologías y metodologías.
 
 ## 🚀 Habilidades
 
